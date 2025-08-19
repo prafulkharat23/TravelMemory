@@ -44,7 +44,7 @@ The diagram below illustrates the overall deployment setup for the **Travel Memo
 - The **Frontend** (React) is hosted on Nginx inside an EC2 instance, serving static content.  
 - The **Backend** (Node.js/Express) is deployed on multiple EC2 instances for redundancy and load balancing.  
 
-![Architecture Diagram](Travel-Memory-Architecture-Diagram.png)
+![Architecture Diagram](Screenshots/mern-project-architecture-diagram.png)
 
 
 The diagram below illustrates the overall deployment setup for the **Travel Memory Application** on AWS:  
